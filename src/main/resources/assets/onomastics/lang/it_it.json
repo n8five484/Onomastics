@@ -1,0 +1,9 @@
+{
+  "villager.firstNames.male": "Adamo, Agostino, Aldo, Alessandro, Alfio, Amerigo, Angelo, Aniello, Antonio, Baldassare, Bartolomeo, Biagio, Calogero, Camillo, Carlo, Carmelo, Carmine, Cesare, Ciro, Claudio, Concetto, Cosimo, Damiano, Dante, Dino, Domenico, Donato, Egidio, Elio, Eugenio, Eusebio, Fausto, Flavio, Fortunato, Francesco, Franco, Furio, Gabriele, Gaetano, Galeazzo, Gaspare, Gianni, Gino, Giuseppe, Guido, Ignazio, Innocenzo, Leonardo, Lorenzo, Luciano, Luigi, Marcello, Marco, Mario, Mauro, Natale, Nereo, Nicola, Nino, Nunzio, Orazio, Orlando, Pasquale, Pellegrino, Pietro, Roberto, Rocco, Salvatore, Santo, Stefano, Vito",
+  "villager.firstNames.female": "Antonella, Carmela, Caterina, Elvira, Filomena, Franca, Giovanna, Rosaria, Vincenza",
+  "villager.lastNames.habitational": "Alfano, Brescia, Camelio, Campus, Cusano, Di Gangi, Napoli, Nicosia, Lentini, Moceri, Pizzo, Randazzo, Rome",
+  "villager.lastNames.nickname": "Arico, Chiappone, Ficca, Ingoglia, Manzo, Piscitelli",
+  "villager.lastNames.occupational": "Camilleri, Famiglietti, Ferraro, Massarelli, Pedone",
+  "villager.lastNames.patronymic": "Adamo, Agostinelli, Alessandrini, Balducci, Barbaro, Bassano, Capodanno, Cielo, D'Alessandro, DiMarco, Fanelli, Frigo, Furio, Galeazzi, Giallombardo, Giampetro, Graziani, Innocenti, Latina, Lupino, Maiello, Mannino, Marino, Martini, Masella, Mercuri, Moccia, Paolucci, Pero, Raimondo, Valentini, Zanella, Zona",
+  "villager.lastNames.topographic": "Castello, Tassone"
+}
